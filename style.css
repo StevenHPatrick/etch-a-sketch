@@ -1,0 +1,8 @@
+.row {
+  display: flex;
+}
+
+.row, .items{
+  padding: 10px;
+  color: blue;
+}
