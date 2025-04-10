@@ -3,6 +3,12 @@
 }
 
 .row, .items{
-  padding: 10px;
+  padding-left: 10px;
+  padding-top: 2px;
   color: blue;
+}
+
+.active {
+  background-color: red;
+  /* color: red; */
 }
